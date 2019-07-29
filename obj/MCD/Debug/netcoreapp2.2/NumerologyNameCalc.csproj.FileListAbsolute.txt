@@ -1,0 +1,14 @@
+C:\myTechRepos\NumerologyNameCalc\bin\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.deps.json
+C:\myTechRepos\NumerologyNameCalc\bin\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.runtimeconfig.json
+C:\myTechRepos\NumerologyNameCalc\bin\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.runtimeconfig.dev.json
+c:\myTechRepos\NumerologyNameCalc\bin\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.dll
+c:\myTechRepos\NumerologyNameCalc\bin\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.pdb
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.csprojAssemblyReference.cache
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.csproj.CoreCompileInputs.cache
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.RazorAssemblyInfo.cache
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.RazorAssemblyInfo.cs
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.AssemblyInfoInputs.cache
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.AssemblyInfo.cs
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.RazorTargetAssemblyInfo.cache
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.dll
+c:\myTechRepos\NumerologyNameCalc\obj\MCD\Debug\netcoreapp2.2\NumerologyNameCalc.pdb
